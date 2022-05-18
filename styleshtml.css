@@ -1,0 +1,26 @@
+div
+{
+    width: 1000px;
+    color: whitesmoke;
+    border-color: blue;
+    border-width: 15px;
+    border-style: double;
+    padding: 10px;
+    background-color: orangered;
+    text-shadow: 2px 2px black;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+img {border-radius: 50px;}
+li {
+    margin: 10px;
+    font-style: italic;
+}
+body {
+    background-image: url(https://222oet1kze3237gw1p2co8yu-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/Scenic-Mountain-Widescreen-Background-Wallpapers.jpg);
+    
+}
