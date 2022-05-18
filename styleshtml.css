@@ -1,5 +1,6 @@
 div
 {
+
     width: 1000px;
     color: whitesmoke;
     border-color: blue;
@@ -8,6 +9,11 @@ div
     padding: 10px;
     background-color: orangered;
     text-shadow: 2px 2px black;
+    box-shadow: inset 20px 20px 20px black;
+    margin: 100px;
+    margin-bottom: auto;
+    align-content: center;
+ 
 }
 h1 {
     font-family: 'Courier New', Courier, monospace;
